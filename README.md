@@ -1,7 +1,7 @@
 # Termux Setup
 
 ### A script to auto-install few packages and customise termux.
-![image](https://github.com/anonymousx97/termux-setup/assets/88324835/424eafa8-d0bb-4b6b-a033-b45b5d878dcc)
+![image](https://github.com/KarlMarxArchX/termux-setup/assets/88324835/424eafa8-d0bb-4b6b-a033-b45b5d878dcc)
 
 
 >It was made because Ryuk was ~~LAZY~~ tired of setting up termux again and again. XD
@@ -10,13 +10,13 @@
 <details>
 <summary>  termux-url-opener:</summary>
 
-https://github.com/anonymousx97/termux-setup/assets/88324835/9ba12b6a-e53c-47df-88b8-51585666cd5e
+https://github.com/KarlMarxArchX/termux-setup/assets/88324835/9ba12b6a-e53c-47df-88b8-51585666cd5e
 
 </details>
 <details>
 <summary>  arc:</summary>
 
-https://github.com/anonymousx97/termux-setup/assets/88324835/a1067ff9-9c31-40d8-82bf-c2c10dbc11f3
+https://github.com/KarlMarxArchX/termux-setup/assets/88324835/a1067ff9-9c31-40d8-82bf-c2c10dbc11f3
 
 </details>
 
@@ -27,10 +27,10 @@ Download Termux:
 Run:  
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/anonymousx97/termux-setup/main/setup.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/KarlMarxArchX/termux-setup/main/setup.sh)"
   ```
 ### Credits 
-* By: Ryuk [ [TG](https://t.me/anonymousx97) | [GitHub](https://github.com/anonymousx97) ]
+* By: Ryuk [ [TG](https://t.me/KarlMarxArchX97) | [GitHub](https://github.com/KarlMarxArchX) ]
 * [mayTrmux](https://github.com/mayTermux) for original _color.properties & rxfetch_
 * Packages Used:
   * APT :
