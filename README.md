@@ -27,7 +27,7 @@ Download Termux:
 Run:  
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/anonymousx97/termux-setup/main/setup.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/KarlMarxArchX/termux-setup/main/setup.sh)"
   ```
 ### Credits 
 * By: Ryuk [ [TG](https://t.me/anonymousx97) | [GitHub](https://github.com/anonymousx97) ]
