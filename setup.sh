@@ -197,7 +197,7 @@ check_distro(){
 check_distro
 ' >> $HOME/.bashrc
     echo "Done."
-    echo -e "You can now use '${green}dcli${white}' for archlinux cli and '${green}dgui${white}' for GUI (Termux x11 app required)."
+    echo -e "You can now use '${green}acli${white}' for archlinux cli and '${green}agui${white}' for GUI (Termux x11 app required)."
 }
 
 
