@@ -166,18 +166,9 @@ setup_archlinux(){
     ask "${options}" "Window Manager Menu:" "wm_dict"
 
     proot-distro login archlinux  --termux-home --shared-tmp -- bash -c "
-    pacman -Syu  && \
-    pacman -S \
-    firefox-esr \
-    bpytop \
-    fastfetch \
-    openssh \
+    pacman -Syu \
+    pacman -S firefox-esr xfce4-goodies bpytop fastfetch byobu gcc gmake curl wget python-pip git clang \
     ${wm} \
-    xorg-server \ 
-    xorg-xinit \
-    xorg-utils \
-    xterm xfce4 \
-    xfce4-goodies \
     locales \
     fonts-noto-cjk && \
     ln -sf /usr/share/zoneinfo/Asia/Calcutta /etc/localtime && \
