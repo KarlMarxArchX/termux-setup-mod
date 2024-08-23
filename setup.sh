@@ -166,8 +166,8 @@ setup_archlinux(){
     ask "${options}" "Window Manager Menu:" "wm_dict"
 
     proot-distro login archlinux  --termux-home --shared-tmp -- bash -c "
-    pacman -Syu && \
     pacman -S firefox-esr xfce4-goodies bpytop fastfetch byobu gcc gmake curl wget python-pip git clang \
+    pacman -Syu
     ${wm} \
     locales \
     fonts-noto-cjk && \
